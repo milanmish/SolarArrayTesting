@@ -21,5 +21,5 @@ It’s possible to look directly in the NOAA .dat files to see irradiances for e
 Good luck!
 
 
-Written by Milan Mishra (if you need to reach me: milan\[dot]mishra\[at]wisc\[dot]edu)
+Written by Milan Mishra
 
